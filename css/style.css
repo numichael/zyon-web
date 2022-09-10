@@ -416,6 +416,10 @@ h6 {
     letter-spacing: 3px;
 }
 
+.about {
+    text-align: center;
+}
+
 .section-title.st-center {
     text-align: center;
 }
@@ -434,6 +438,15 @@ h6 {
 
 .bottom-line {
     margin-bottom: 20px;
+    text-align: center;
+}
+
+.clients {
+    font-size: 18px;
+}
+
+.container {
+    text-align: center;
 }
 
 .heroottom-line:after {
