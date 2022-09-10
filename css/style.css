@@ -10,7 +10,7 @@
  */
 
 body {
-    font-family: "Open Sans";
+    font-family: "Lato";
     color: #808080;
     font-weight: 400;
     font-size: 14px;
@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Oswald";
+    font-family: "Lato";
     color: #4c4c4c;
     letter-spacing: 1px;
     font-weight: 400;
@@ -273,7 +273,7 @@ h6 {
 }
 
 .btn {
-    font-family: "poppins";
+    font-family: "Lato";
     font-size: 16px;
     letter-spacing: 1px;
     border-radius: 40px;
@@ -391,7 +391,7 @@ h6 {
 }
 
 .section-title h3 {
-    font-family: "Oswald";
+    font-family: "Lato";
     text-transform: uppercase;
     color: #4c4c4c;
     font-weight: 400;
@@ -407,7 +407,7 @@ h6 {
 }
 
 .section-title p {
-    font-family: "Oswald";
+    font-family: "Lato";
     text-transform: uppercase;
     color: #1553a0;
     font-size: 38px;
@@ -577,7 +577,7 @@ h6 {
 }
 
 .home .hero-txt .hero-title {
-    font-family: "poppins";
+    font-family: "lato";
     color: #fff;
     text-transform: uppercase;
     font-size: 70px;
@@ -589,7 +589,7 @@ h6 {
 }
 
 .home .hero-txt .hero-work {
-    font-family: "Oswald";
+    font-family: "lato";
     font-weight: 300;
     letter-spacing: 2px;
     margin-bottom: 0;
@@ -616,7 +616,7 @@ h6 {
 }
 
 .home .hero-txt .hero-sub-title {
-    font-family: "poppins";
+    font-family: "lato";
     font-size: 40px;
     font-weight: 400;
     color: rgb(255, 255, 255);
@@ -676,7 +676,7 @@ h6 {
 }
 
 .navbar-nav>li>a {
-    font-family: "poppins";
+    font-family: "lato";
     font-size: 15px;
     font-weight: 300;
     letter-spacing: 1px;
@@ -807,7 +807,7 @@ h6 {
 }
 
 .st-member .st-member-info .st-member-name {
-    font-family: "Oswald";
+    font-family: "lato";
     display: block;
     color: #4c4c4c;
     font-size: 30px;
@@ -828,7 +828,7 @@ h6 {
 
 .st-member .st-member-info .st-member-pos {
     display: block;
-    font-family: "Oswald";
+    font-family: "lato";
     font-size: 20px;
     line-height: 18px;
     font-weight: 300;
@@ -1033,7 +1033,7 @@ h6 {
 }
 
 .funfacts .funfact {
-    font-family: "Oswald";
+    font-family: "lato";
     text-align: center;
     color: #fff;
 }
@@ -1091,7 +1091,7 @@ h6 {
 
 .st-feature .st-feature-title {
     display: block;
-    font-family: "Oswald";
+    font-family: "lato";
     font-size: 25px;
     line-height: 45px;
     letter-spacing: 1px;
@@ -1390,7 +1390,7 @@ ul.styled-list.list-star li:before {
 }
 
 .testimonial .testimonial-img:before {
-    font-family: "Oswald";
+    font-family: "lato";
     content: '\201C';
     font-size: 40px;
     position: absolute;
@@ -1446,7 +1446,7 @@ ul.styled-list.list-star li:before {
 }
 
 .pricing-table .pricing-header .pt-price {
-    font-family: "Oswald";
+    font-family: "lato";
     color: #4c4c4c;
     font-size: 40px;
     line-height: 70px;
@@ -1462,7 +1462,7 @@ ul.styled-list.list-star li:before {
 }
 
 .pricing-table .pricing-header .pt-name {
-    font-family: "Oswald";
+    font-family: "lato";
     padding: 10px 40px;
     text-align: center;
     font-weight: 300;
@@ -1520,7 +1520,7 @@ ul.styled-list.list-star li:before {
 }
 
 .pricing-table.featured .pricing-header .featured-text {
-    font-family: "Oswald";
+    font-family: "lato";
     font-size: 13px;
     line-height: 15px;
     letter-spacing: 1px;
@@ -1669,7 +1669,7 @@ ul.styled-list.list-star li:before {
 }
 
 .widget ul li .recent-post .post-title {
-    font-family: "Open Sans";
+    font-family: "lato";
     font-weight: 600;
     letter-spacing: 0;
     font-size: 15px;
@@ -1765,7 +1765,7 @@ ul.styled-list.list-star li:before {
 }
 
 .subscribe .subscribe-or {
-    font-family: "Oswald";
+    font-family: "lato";
     color: #fff;
     text-align: center;
     font-size: 20px;
@@ -1806,7 +1806,7 @@ ul.styled-list.list-star li:before {
 }
 
 a.social {
-    font-family: "Oswald";
+    font-family: "lato";
     letter-spacing: 1px;
     display: inline-block;
     background-color: #1553a0;
