@@ -784,6 +784,7 @@ h6 {
 
 .about {
     padding: 100px 0 0;
+    margin-bottom: 30px;
 }
 
 .st-member {
@@ -1080,6 +1081,10 @@ h6 {
 
 .service {
     padding: 100px 0;
+}
+
+#service {
+    margin: 0%;
 }
 
 .st-feature {
