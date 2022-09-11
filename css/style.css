@@ -1754,15 +1754,20 @@ footer.site-footer a:hover {
     .st-navbar-mini .navbar-default .navbar-nav>li>a {
         padding-top: 20px;
         padding-bottom: 20px;
-        background-color: #000;
+        background: #222;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
     }
+}
+
 }
 @media (min-width: 1440px) {
     .grid {
         width: 100%;
         padding: 0;
     }
-    
     .grid figure {
         position: relative;
         float: left;
