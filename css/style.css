@@ -1754,6 +1754,7 @@ footer.site-footer a:hover {
     .st-navbar-mini .navbar-default .navbar-nav>li>a {
         padding-top: 20px;
         padding-bottom: 20px;
+        background-color: #000;
     }
 }
 @media (min-width: 1440px) {
