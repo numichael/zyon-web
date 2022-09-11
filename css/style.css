@@ -592,7 +592,7 @@ h6 {
     font-family: "lato";
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 70px;
+    font-size: 65px;
     line-height: 80px;
     margin-bottom: -15px;
     font-weight: 400;
@@ -602,7 +602,7 @@ h6 {
 
 .hero-title {
     color: white;
-    font-size: 55px;
+    font-size: 50px;
 }
 
 
@@ -639,7 +639,7 @@ h6 {
 }
 .hero-sub-title {
     color: white;
-    font-size: 40px;
+    font-size: 35px;
 }
 .home .hero-txt .hero-img {
     margin-top: 80px;
